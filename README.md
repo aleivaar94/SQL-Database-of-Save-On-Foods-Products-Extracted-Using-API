@@ -52,12 +52,11 @@ It’s important to consider pagination, or how the API request will “scroll�
 
 ## Results
 
-A total of 1519 meat products were extracted from the Save-On-Foods website using its API. A function to extract the products with a search term parameter (e.g. meat, plant-based, yogurt) was defined which allows to scrap various items using the same function.
+A total of 1519 meat products were extracted from the Save-On-Foods website by communicating with it's API.
 
-## Next Steps
+A function to extract the products with a search term parameter (e.g. meat, plant-based, yogurt) was defined which allows to scrap various items using the same function.
 
-Use the SQL database to practice advanced SQL queries.
-
+The products are saved in a csv file and a relational database (`save-on-foods-meat-products.csv` and `plant-based-save-on-foods.db`) respectively.
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://alejandroleiva.notion.site/Data-Portfolio-5c5257235e044c6b9a8846131edac973)
