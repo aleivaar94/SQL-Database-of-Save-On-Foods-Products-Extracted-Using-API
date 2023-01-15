@@ -1,3 +1,4 @@
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 # SQL Database of Save-On-Foods products extracted using API
 
@@ -57,7 +58,3 @@ A total of 1519 meat products were extracted from the Save-On-Foods website by c
 A function to extract the products with a search term parameter (e.g. meat, plant-based, yogurt) was defined which allows to scrap various items using the same function.
 
 The products are saved in a csv file and a relational database (`save-on-foods-meat-products.csv` and `plant-based-save-on-foods.db`) respectively.
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://alejandroleiva.notion.site/Data-Portfolio-5c5257235e044c6b9a8846131edac973)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ale-leivaar/)
