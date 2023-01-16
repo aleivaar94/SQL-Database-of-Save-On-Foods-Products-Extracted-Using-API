@@ -6,7 +6,7 @@
 
 In today’s society data is the new gold, and the web is the doorway to get it. However, not all this data can be easily downloaded for analysis. This is where web scrapping comes in.
 
-Web scrapping aka web data extraction is used for extracting data from websites. Various Python libraries such as [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/), [Selenium](https://www.selenium.dev/documentation/) and [Scrapy](https://scrapy.org/) are used to extract data from a website. One of the most efficient and simple methods to extract data from a website is by accessing and requesting it’s API.
+Web scrapping aka web data extraction is used for extracting data from websites. Various Python libraries such as [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/), [Selenium](https://www.selenium.dev/documentation/) and [Scrapy](https://scrapy.org/) are used to extract data from a website. One of the most efficient and simple methods to extract data from a website is by accessing and requesting its API.
 
 API or Application Programming Interface is a set of definitions and protocols that allows applications to communicate between each other. Each time you interact with The Weather Network you are communicating with their servers to get the forecast for the next 7 days, for examples. Or in this case, to search for specific grocery items in the Save-On-Foods website.
 
